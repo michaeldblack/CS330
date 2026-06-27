@@ -14,6 +14,8 @@ How could tactics from your design approach be applied in future work?
 
 I believe I could use this same pattern for most scenes. The only thing I would add would be effects (e.g., atompsheric and physics effects).
 
+
+
 2) How do I approach developing programs?
 
 What new development strategies did you use while working on your 3D scene?
@@ -30,6 +32,8 @@ How has your approach to developing code evolved throughout the milestones, whic
 My approach to developing code has evolved by more considering phases or a project. I have done many projects in the past and have finished one phase and gone some percentage through the next -- it perhaps wasn't the best. I think it is cleaner to do one thing at a time and then come back later when a new phase begins. The milestones I worked on in this class assisted with that evolution because each milestone was associated with the mesh/texturing/lighting/camera movement phase above.
 
 3) How can computer science help me in reaching my goals?
+
+
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 
